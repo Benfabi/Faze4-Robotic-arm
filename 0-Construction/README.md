@@ -12,4 +12,4 @@ Every build stage consists of:
 There are the following build stages (*work in progress*):
 | Name | BoM | 3D Prints | Tests |
 | ---- | --- | --------- | ----- |
-| [Base](https://github.com/Benfabi/Faze4-Robotic-arm/tree/master/0-Construction/a_Base.md) | XX  | A, B, C   | TEST  |
+| [Wrist](./a_Wrist.md) | XX  | A, B, C   | TESTING |

@@ -17,8 +17,8 @@ At this point, this fork is supposed to contribute. It should give a clear direc
 
 # Structure of this repo
 
-- [0-Construction](https://github.com/Benfabi/Faze4-Robotic-arm/tree/master/0-Construction): this folder contains a step by tutorial building the robot.
-- [STL](https://github.com/Benfabi/Faze4-Robotic-arm/tree/master/STL): this folder contains the STL files to print. The construction tutorial will let you know when each print is needed. 
+- [0-Construction](./0-Construction): this folder contains a step by tutorial building the robot.
+- [STL](./STL): this folder contains the STL files to print. The construction tutorial will let you know when each print is needed. 
 - Original: this folder contains the files from the original repository.
 
 # Where to start ? 
