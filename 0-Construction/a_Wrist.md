@@ -20,9 +20,10 @@ Before you start, make sure you got the material and 3D prints.
 
 ## 3D prints
 
-- Joint 6 Output shaft
-- Wrist case
-- Wrist cover
+
+- [Joint 6 Output shaft](../STL/Wrist/Joint-6-output-shaft.stl)
+- [Wrist case](../STL/Wrist/Wrist-case.stl)
+- [Wrist cover](../STL/Wrist/Wrist-cover.stl)
 
 ## Construction
 
