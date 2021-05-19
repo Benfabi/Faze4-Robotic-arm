@@ -1,6 +1,6 @@
 # Wrist
 
-Before you start, make sure you got the material and 3D prints.
+Before you start, make sure you got the material and 3D prints below ready.
 
 ## Bill of Material
 
@@ -32,7 +32,7 @@ With the given GCode, there is a total of 15h 25m of printing.
 
 Steps 1-4
 [Building instructions](../Original/Assembly%20instructions%203.1.pdf)
-
+- TODO
 
 ## Testing
 
