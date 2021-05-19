@@ -23,15 +23,15 @@ At this point, this fork is supposed to contribute. It should give a clear direc
 
 # Where to start ? 
 
-To build this robotic arm follow [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf). All general info about robotic arm is in [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/). Building instructions and DOCS go hand in hand and you need to follow both to build this arm. Building instructions are about general mechanical assembly while DOCS contain ALL info ( Electrical wiring, Low level setup, High level ROS and Matlab, tips ...).
+To build this robotic arm follow [Building instructions](./Original/Assembly%20instructions%203.1.pdf). All general info about robotic arm is in [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/). Building instructions and DOCS go hand in hand and you need to follow both to build this arm. Building instructions are about general mechanical assembly while DOCS contain ALL info ( Electrical wiring, Low level setup, High level ROS and Matlab, tips ...).
 
 # Check the arm in action !
 [![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86797452-f86cbc80-c06f-11ea-962e-c3f80d14b41b.png)](https://www.youtube.com/watch?v=OHw6_l_8Tnk)
 
 # Contents:
 
-- [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
-- [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
+- [Building instructions](./Original/Assembly%20instructions%203.1.pdf)
+- [BOM](./Original/Bom_1.2_joint2_update.xlsx) 
 - [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/) Contains ALL info about the arm.
 - [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
 
