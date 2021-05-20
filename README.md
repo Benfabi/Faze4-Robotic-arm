@@ -19,23 +19,20 @@ At this point, this fork is supposed to contribute. It should give a clear direc
 
 - [0-Construction](./0-Construction): this folder contains a step by tutorial building the robot.
 - [STL](./STL): this folder contains the STL files to print. The construction tutorial will let you know when each print is needed. 
-- Original: this folder contains the files from the original repository.
+- [Original](./Original): this folder contains the files from the original repository.
 
 # Where to start ? 
 
-To build this robotic arm follow [Building instructions](./Original/Assembly%20instructions%203.1.pdf). All general info about robotic arm is in [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/). Building instructions and DOCS go hand in hand and you need to follow both to build this arm. Building instructions are about general mechanical assembly while DOCS contain ALL info ( Electrical wiring, Low level setup, High level ROS and Matlab, tips ...).
+It is recommended to start with the [Construction](./0-Construction) folder.
 
-# Check the arm in action !
+# Check the arm in action
 [![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86797452-f86cbc80-c06f-11ea-962e-c3f80d14b41b.png)](https://www.youtube.com/watch?v=OHw6_l_8Tnk)
 
-# Contents:
+# Further Links:
 
 - [Building instructions](./Original/Assembly%20instructions%203.1.pdf)
-- [BOM](./Original/Bom_1.2_joint2_update.xlsx) 
 - [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/) Contains ALL info about the arm.
-- [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
-
-# Where to see more Faze4 robotic arm?
+- [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4)
 - [Hackaday](https://hackaday.io/project/167247-faze4-robotic-arm)
 - [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/)
 
