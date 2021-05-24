@@ -26,19 +26,19 @@ Before you start, make sure you got the material and 3D prints below ready.
 
 With the given GCode, there is a total of 15h 25m of printing.
 
-| STL File | 3mf File | gcode |
-| -------- | -------- | ----- |
-| Forearm main case | ... | ... |
-| J5 Ring Rollers x 12 | ... | ... |
-| 11:1 cyclo disc x 2 | ... | ... |
-| Eccentric shaft J5 | ... | ... |
-| Servo gripper plug | ... | ... |
-| Joint 5 Output shaft | ... | ... |
-| Joint 5 Output spacers x 10 | ... | ... |
-| Joint 5 switch trigger | ... | ... |
-| Forearm top cover | ... | ... |
-| J5 28 teeth pulley | ... | ... |
-| Joint 4 shaft | ... | ... |
+| STL File | Quantity | 3mf File | gcode |
+| -------- | -------- | -------- | ----- |
+| Forearm main case | 1 | ... | ... |
+| J5 Ring Rollers | 12 | ... | ... |
+| 11:1 cyclo disc | 2 | ... | ... |
+| Eccentric shaft J5 | 1 | ... | ... |
+| Servo gripper plug | 1 | ... | ... |
+| Joint 5 Output shaft | 1 |... | ... |
+| Joint 5 Output spacers | 10 | ... | ... |
+| Joint 5 switch trigger | 1 | ... | ... |
+| Forearm top cover | 1 | ... | ... |
+| J5 28 teeth pulley | 1 | ... | ... |
+| Joint 4 shaft | 1 | ... | ... |
 
 
 ## Construction
