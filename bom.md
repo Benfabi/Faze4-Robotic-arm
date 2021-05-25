@@ -22,6 +22,19 @@
 | M10 60 mm screw | Hex socket cap | 4 |
 
 
+| Ball Bearing Type | Quantity |
+| ----------------- | -------- |
+|  35x47x7  | 8 |
+|  3x8x4    | 200 |
+|  17x23x4  | 4 |
+|  15x28x7  | 6 |
+|  3x10x4   | 40 |
+|  50x67x7  | 8 |
+|  5x10x4   | 32 |
+|  5x16x5   | 13 |
+|  20x27x4  | 2 |
+
+
 ## Other stuff
 
 | Diameter, length | Quantity |
@@ -30,6 +43,5 @@
 | M3 4mm brass inserts | 12 |
 | M3 nuts | 1 |
 | M8 nuts | 2 |
-| Ball bearing 35x47x7 | 1 |
 | Nema 14, 19:1 gearbox motor | 1 |
 | Heschen M8 Inductive Proximity Sensor Switch Non-Shield Type LJ8A3-2-Z/BX Detector 2 mm 10-30VDC 200mA NPN Normally Open (NO) 3-Wire -> Includes 2xM8 nuts | 2 |
