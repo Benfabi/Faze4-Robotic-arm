@@ -13,3 +13,4 @@ There are the following build stages (*work in progress*):
 | Name | BoM | 3D Prints | Tests |
 | ---- | --- | --------- | ----- |
 | [Wrist](./a_Wrist.md) | [BoM](./a_Wrist.md#bill-of-material)  | [15h25m of printing](./a_Wrist.md#3d-prints)   | [X Test Cases](./a_Wrist.md#testing)  |
+| [Forearm](./b_Forearm.md) | [BoM](./b_Forearm.md#bill-of-material)  | [2d3h30m of printing](./b_Forearm.md#3d-prints)   | [X Test Cases](./b_Forearm.md.md#testing)  |

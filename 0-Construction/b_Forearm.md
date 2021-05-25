@@ -24,7 +24,7 @@ Before you start, make sure you got the material and 3D prints below ready.
 
 ## 3D prints
 
-With the given GCode, there is a total of 15h 25m of printing.
+With the given GCode, there is a total of 2d 3h 30m of printing choosing the combined print.
 
 | STL File | Quantity | 3mf File | gcode |
 | -------- | -------- | -------- | ----- |

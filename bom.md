@@ -22,6 +22,8 @@
 | M10 60 mm screw | Hex socket cap | 4 |
 
 
+## Ball Bearings
+
 | Ball Bearing Type | Quantity |
 | ----------------- | -------- |
 |  35x47x7  | 8 |
